@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.divMono{
+    width: 220px;
+}
+
+.imgMono{
+    width: 100%;
+    margin: 25px;
+}
+
+.divDer{
+    position: relative;
+    left: 250px;
+    bottom: 230px;
+}
+
+.Parrafo1{
+    position: relative;
+    right: 22px;
+    font-style: serif;
+    font-weight: lighter;
+    font-size: 300%;
+    margin: 10px;
+}
+
+.Parrafo2{
+    font-style: normal;
+    width: 470px;
+    text-align: justify;
+    margin: 10px;
+    position: relative;
+    right: 10px;
+}
+
+.input1{
+    margin: 10px;
+    position: relative;
+    right: 10px;
+}
+
+.input2{
+    margin: 10px;
+    position: relative;
+    right: 10px;
+}
+
+.input3{
+    margin: 10px;
+    position: relative;
+    right: 10px;
+}
+
+.ul1{
+    position: relative;
+    left: 15px;
+}
+
+.ul2{
+    position: relative;
+    left: 270px;
+    bottom: 55px;
+}
+
+.signUp{
+    width: 120px;
+    height: 20px;
+    border-color: grey;
+    border-style: solid;
+    padding: 20px;
+    background-color: transparent;
+}
+
+.parrafo3{
+    text-align: center;
+    color: grey
+}
+
+.warning{
+    position: relative;
+    left: 200px;
+    bottom: 50px;
+}
+
+.checkbox{
+    appearance: none;
+    width: 30px;
+    height: 30px;
+    border-style: solid; 
+    border-color: grey;
+}
+
+.parrafo4{
+    position: relative;
+    left: 40px;
+    bottom: 30px;
+    width: 320px;
+}
+
+.parrafo5{
+    position: relative;
+    width: 650px;
+}
